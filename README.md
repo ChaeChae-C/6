@@ -1,6 +1,5 @@
 # 6주차 실습 가이드
 
-<!DOCTYPE html>
 <html lang="ko">
 <head>
 <meta charset="UTF-8">
